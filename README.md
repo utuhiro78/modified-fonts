@@ -42,4 +42,4 @@ Most Japanese websites were designed for “MS P Gothic” font. “Monapo” fo
 
 ![monapo-01](https://github.com/utuhiro78/modified-fonts/assets/34818411/c5ea3ebd-4b25-4cd0-ab82-6435cdd15074)
 
-[HOME](http://linuxplayers.g1.xrea.com/index.html)
+[HOME](https://utuhiro78.github.io/linuxplayers/)
